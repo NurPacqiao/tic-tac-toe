@@ -51,7 +51,6 @@ Plaintext
 🚀 How to Run
 Clone the repository:
 
-Bash
 git clone https://github.com/your-username/tic-tac-toe.git
 Open the project: Navigate to the project folder and open index.html in your preferred browser.
 
